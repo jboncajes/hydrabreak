@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hydrabreak/static/css/main.d229549a.css",
-    "main.js": "/hydrabreak/static/js/main.b68a4c49.js",
+    "main.js": "/hydrabreak/static/js/main.a19f1963.js",
     "index.html": "/hydrabreak/index.html",
     "main.d229549a.css.map": "/hydrabreak/static/css/main.d229549a.css.map",
-    "main.b68a4c49.js.map": "/hydrabreak/static/js/main.b68a4c49.js.map"
+    "main.a19f1963.js.map": "/hydrabreak/static/js/main.a19f1963.js.map"
   },
   "entrypoints": [
     "static/css/main.d229549a.css",
-    "static/js/main.b68a4c49.js"
+    "static/js/main.a19f1963.js"
   ]
 }
